@@ -11,7 +11,7 @@ venv/
 *.csv
 *.xlsx
 data/
-model/
+# model/
 
 # VS Code
 .vscode/
