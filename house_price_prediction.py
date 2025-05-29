@@ -46,7 +46,7 @@ data = df[features + ['SalePrice']].dropna()
 X = data[features]
 y = data['SalePrice']
 
-print(df[features + ['SalePrice']].describe())
+# print(df[features + ['SalePrice']].describe())
 
 
 # Split the dataset into training and testing sets
