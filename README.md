@@ -45,7 +45,7 @@ streamlit run app.py
 ```
 
 This project is live on Streamlit Cloud
-Note: Link will be updated once deployed.
+https://house-price-predictor-ml-model-jtimfpkk5sagxkmc43bado.streamlit.app/
 
 👨‍💻 Author
 Avanish Suthakaran
