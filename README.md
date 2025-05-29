@@ -30,7 +30,6 @@ A machine learning web application that predicts house sale prices using key eng
   - **RMSE**: ~$29,000
 
 - Interactive UI for user input
-- Sidebar with model details and project info
 
 ---
 
